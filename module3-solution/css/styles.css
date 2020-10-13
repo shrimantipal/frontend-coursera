@@ -1,0 +1,161 @@
+
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: Futura, sans-serif;
+	color: #000000;
+}
+
+body {
+	
+	background-color: #C1E7EC;
+
+}
+
+p {
+	padding: 20px;
+	margin: 10;
+	margin-left:10px;
+	
+}
+
+.container {
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	1px solid black;
+	background-color:#64ACB5;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: black;
+	position: relative;
+	overflow: auto;
+}
+
+#chicken {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	padding:5px;
+	font-family: Futura, sans-serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	background-color: #7EB6B3;
+	color: #E4E4E4;
+}
+
+#beef {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	padding:5px;
+	font-family: Futura, sans-serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	background-color: #3FA8A2;
+	color: #E4E4E4;
+}
+
+#sushi {
+	border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	padding:5px;
+	font-family: Futura, sans-serif;
+	font-weight: bold;
+	font-size: 1.5em;
+	background-color: #08847D;
+	color: #E4E4E4;
+	
+}
+
+#chicken-box {
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+}
+
+#beef-box {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+#sushi-box {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+
+
+.navbar-brand {
+  font-size: 1.5em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}
+
+
+#header-nav {
+  
+	background-color: black;
+	color: #000000;
+	border:0;
+}
+
+
+.nav-brand {
+	color: #FFFFFF;
+	font-size: 1em;
+	margin-top:-20px;
+	font-family:Futura, sans-serif;
+
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid white;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -40px;
+}
+
+.nav-header {
+	background-color: #FFFFFF;
+}
+
+.nav-brand {
+	color: #FFFFFF;
+	font-size: 1.5em;
+}
+
+#nav-list {
+	color: white;
+	font-size: 1.5em;
+	font-family: Futura, sans-serif;
+ 
+}
+
+hr {
+	border-color: white;
+}
+
+.item {
+	color: white;
+ 	font-size: 1em;
+}
+
+
+
+
